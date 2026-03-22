@@ -1,0 +1,11 @@
+------------------------ ABC Shop  - Final Bill --------------------
+
+Item		Unit Price	Quantity	Total
+
+Apple		60.00		2		120.00
+Orange		35.50		4		142.00
+Mango		55.00		5		275.00
+Banana		8.00		2		16.00
+
+
+The total is:					553.00
